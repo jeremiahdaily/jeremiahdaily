@@ -18,6 +18,28 @@ Keep improving.
 - Python automation for files, CSV/Excel, reports, and engineering data
 - Building toward Linux, ROS2, C++, telemetry, and robotics/test integration concepts
 
+## Tools & Technologies
+
+### Current
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,windows" />
+</p>
+
+![AutoLISP](https://img.shields.io/badge/AutoLISP-CAD%20Automation-blue)
+![CAD Automation](https://img.shields.io/badge/CAD-Automation-informational)
+![Engineering Workflows](https://img.shields.io/badge/Engineering-Workflows-lightgrey)
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,cpp,cmake" />
+</p>
+
+![ROS2](https://img.shields.io/badge/ROS2-Learning-lightgrey)
+![Telemetry](https://img.shields.io/badge/Telemetry-Exploring-lightgrey)
+![Test Integration](https://img.shields.io/badge/Test%20%26%20Integration-Exploring-lightgrey)
+
 ## Featured Work
 
 ### AutoCAD Sheet Setup Automation

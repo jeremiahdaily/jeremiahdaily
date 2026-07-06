@@ -39,6 +39,7 @@ Keep improving.
 ![ROS2 Learning](https://img.shields.io/badge/-ROS2%20Learning-lightgrey)
 ![Telemetry Exploring](https://img.shields.io/badge/-Telemetry%20Exploring-lightgrey)
 ![Test Integration Exploring](https://img.shields.io/badge/-Test%20Integration%20Exploring-lightgrey)
+
 ## Featured Work
 
 ### AutoCAD Sheet Setup Automation
@@ -83,3 +84,7 @@ I am working toward a technical lane that connects:
 - Robotics/autonomy fundamentals over time
 
 I am most interested in the space where software improves physical-system workflows: CAD, manufacturing, documentation, automation, and robotics-adjacent test/integration systems.
+
+## Activity
+
+<img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" />

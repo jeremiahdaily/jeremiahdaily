@@ -26,9 +26,9 @@ Keep improving.
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,windows" />
 </p>
 
-![AutoLISP](https://img.shields.io/badge/AutoLISP-CAD%20Automation-blue)
-![CAD Automation](https://img.shields.io/badge/CAD-Automation-informational)
-![Engineering Workflows](https://img.shields.io/badge/Engineering-Workflows-lightgrey)
+![AutoLISP](https://img.shields.io/badge/-AutoLISP-blue)
+![CAD Automation](https://img.shields.io/badge/-CAD%20Automation-informational)
+![Engineering Workflows](https://img.shields.io/badge/-Engineering%20Workflows-lightgrey)
 
 ### Currently Learning
 
@@ -36,9 +36,9 @@ Keep improving.
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,cpp" />
 </p>
 
-![ROS2](https://img.shields.io/badge/ROS2-Learning-lightgrey)
-![Telemetry](https://img.shields.io/badge/Telemetry-Exploring-lightgrey)
-![Test Integration](https://img.shields.io/badge/Test%20Integration-Exploring-lightgrey)
+![ROS2](https://img.shields.io/badge/-ROS2%20Learning-22314E?logo=ros&logoColor=white)
+![Telemetry](https://img.shields.io/badge/-Telemetry%20Exploring-lightgrey)
+![Test Integration](https://img.shields.io/badge/-Test%20Integration%20Exploring-lightgrey)
 
 ## Featured Work
 
@@ -71,7 +71,7 @@ What it demonstrates:
 - Production drafting automation concepts
 - Iterative tool building
 
-## What I Am Building Toward
+## Technical Direction
 
 I am working toward a technical lane that connects:
 

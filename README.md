@@ -2,7 +2,7 @@
 
 I'm building practical tools for engineering workflows, CAD automation, and technical process improvement.
 
-My current work is focused around CAD production, MEP coordination, drafting cleanup, and hands-on workflow problems. I am building public proof around the kind of tools I like to make: small utilities that reduce repetitive work, make drawings and data easier to manage, and turn messy technical processes into cleaner systems.
+My current work is focused around CAD production, MEP coordination, drafting cleanup, and hands-on workflow problems. I am documenting the kind of tools I like to make: small utilities that reduce repetitive work, make drawings and data easier to manage, and turn messy technical processes into cleaner systems.
 
 This profile is early and intentionally evolving. The goal is simple:
 
@@ -16,7 +16,7 @@ Keep improving.
 - Sheet setup, viewport, titleblock, and drafting workflow utilities
 - GitHub documentation and portfolio-ready technical projects
 - Python automation for files, CSV/Excel, reports, and engineering data
-- Building toward Linux, ROS2, C++, telemetry, and robotics/test integration concepts
+- Learning Linux, ROS2, C++, telemetry, and robotics/test integration concepts
 
 ## Tools & Technologies
 
@@ -33,12 +33,12 @@ Keep improving.
 ### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,cpp,cmake" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,cpp" />
 </p>
 
 ![ROS2](https://img.shields.io/badge/ROS2-Learning-lightgrey)
 ![Telemetry](https://img.shields.io/badge/Telemetry-Exploring-lightgrey)
-![Test Integration](https://img.shields.io/badge/Test%20%26%20Integration-Exploring-lightgrey)
+![Test Integration](https://img.shields.io/badge/Test%20Integration-Exploring-lightgrey)
 
 ## Featured Work
 

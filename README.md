@@ -26,9 +26,9 @@ Keep improving.
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,windows" />
 </p>
 
-![AutoLISP](https://img.shields.io/badge/-AutoLISP-blue)
+![AutoLISP](https://img.shields.io/badge/-AutoLISP-informational)
 ![CAD Automation](https://img.shields.io/badge/-CAD%20Automation-informational)
-![Engineering Workflows](https://img.shields.io/badge/-Engineering%20Workflows-lightgrey)
+![Engineering Workflows](https://img.shields.io/badge/-Engineering%20Workflows-informational)
 
 ### Currently Learning
 
@@ -36,10 +36,9 @@ Keep improving.
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,cpp" />
 </p>
 
-![ROS2](https://img.shields.io/badge/-ROS2%20Learning-22314E?logo=ros&logoColor=white)
-![Telemetry](https://img.shields.io/badge/-Telemetry%20Exploring-lightgrey)
-![Test Integration](https://img.shields.io/badge/-Test%20Integration%20Exploring-lightgrey)
-
+![ROS2 Learning](https://img.shields.io/badge/-ROS2%20Learning-lightgrey)
+![Telemetry Exploring](https://img.shields.io/badge/-Telemetry%20Exploring-lightgrey)
+![Test Integration Exploring](https://img.shields.io/badge/-Test%20Integration%20Exploring-lightgrey)
 ## Featured Work
 
 ### AutoCAD Sheet Setup Automation

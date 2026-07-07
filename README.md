@@ -1,7 +1,5 @@
 # Jeremiah Daily
 
-I'm building practical tools for engineering workflows, CAD automation, and technical process improvement.
-
 My current work is focused around CAD production, MEP coordination, drafting cleanup, and hands-on workflow problems. I am documenting the kind of tools I like to make: small utilities that reduce repetitive work, make drawings and data easier to manage, and turn messy technical processes into cleaner systems.
 
 This profile is early and intentionally evolving. The goal is simple:

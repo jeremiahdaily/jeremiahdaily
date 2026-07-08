@@ -1,8 +1,8 @@
 # Jeremiah Daily
 
-My current work is focused around CAD production, MEP coordination, drafting cleanup, and hands-on workflow problems. I am documenting the kind of tools I like to make: small utilities that reduce repetitive work, make drawings and data easier to manage, and turn messy technical processes into cleaner systems.
+My current work is focused around CAD production, engineering coordination, drafting cleanup, and workflow problems. I am documenting the kind of tools I like to make: small utilities that reduce repetitive work, make drawings and data easier to manage, and turn messy technical processes into cleaner systems.
 
-This profile is early and intentionally evolving. The goal is simple:
+My profile is intentionally evolving. The goal is simple:
 
 Build useful tools.  
 Document the process.  

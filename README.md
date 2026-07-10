@@ -84,5 +84,5 @@ I am working toward a technical lane that connects:
 I am most interested in the space where software improves physical-system workflows: CAD, manufacturing, documentation, automation, and robotics-adjacent test/integration systems.
 
 ## Activity
-
+https://www.youtube.com/watch?v=k0xZsB0fWmY
 <img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" />
